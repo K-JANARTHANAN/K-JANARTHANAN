@@ -1,6 +1,6 @@
  ## Hi there 👋 I'm JANARTHANAN K
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 Engineering Student (B.Tech - Information Technology)
 - 🔭 Check out my [Portfolio](https://hareesh.web.app/)
@@ -36,7 +36,7 @@ _“Turning Ideas into Code. Building Projects that Matter.”_
 
  
 
- ![LeetCode Stats](https://leetcard.jacoblin.cool/Janarthanank?theme=unicorn&font=Noto%20Sans%20Carian) (https://leetcode.com/Janarthanank)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/Janarthanank?theme=unicorn&font=Noto%20Sans%20Carian) 
  
 
  
