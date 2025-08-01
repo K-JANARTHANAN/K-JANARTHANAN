@@ -26,8 +26,8 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janarthanan-k)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janarthanan-k-a0b4b0258/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:janarthanankumaresanemail@gmail.com)
 
 ---
 
@@ -36,5 +36,5 @@ _“Turning Ideas into Code. Building Projects that Matter.”_
 
  
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Janarthanank?theme=unicorn&font=Baloo%20Tamma%202&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Janarthanank?theme=unicorn&font=Baloo%20Tamma%202&site=cn)
  
