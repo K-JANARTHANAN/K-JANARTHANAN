@@ -1,6 +1,6 @@
  ## Hi there 👋 I'm JANARTHANAN K
 
-<img align="right" width="370" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="270" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 Engineering Student (B.Tech - Information Technology)
 - 🔭 Check out my [Portfolio](https://hareesh.web.app/)
