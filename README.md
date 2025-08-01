@@ -25,13 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Janarthanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janarthanank&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janarthanank&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janarthanan-k)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
@@ -43,5 +36,5 @@ _“Turning Ideas into Code. Building Projects that Matter.”_
 
  
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Janarthanank?theme=unicorn&font=Baloo%20Tamma%202&site=cn)
  
