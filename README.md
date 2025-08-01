@@ -36,6 +36,7 @@ _“Turning Ideas into Code. Building Projects that Matter.”_
 
  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Janarthanank?theme=unicorn&font=Baloo%20Tamma%202&site=cn) (https://leetcode.com/u/Janarthanank/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Janarthanank?theme=unicorn&font=Baloo%20Tamma%202&site=cn) (https://leetcode.com/Janarthanank)
+ 
 
  
